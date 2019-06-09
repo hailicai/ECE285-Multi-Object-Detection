@@ -12,6 +12,7 @@ Required Packets
 * Python3.x
 * Numpy
 * Beautiful Soup 4.x
+All can be installed using Anaconda
 
 Code Organization:
 =================
