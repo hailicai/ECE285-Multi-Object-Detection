@@ -4,5 +4,14 @@ This is the ECE285 Project: Multi-Object Detection Using Deep Learning by team C
 Team members: Haili Cai, Joseph Kadifa, Jeffrey Yeung, Isha Srivastava.
 Main SSD codes are from https://github.com/pierluigiferrari/ssd_keras. Different modifications and experiments are done on this structure. 
 
+Required Packets
+===============
+Tensorflow or Tensorflow-gpu 1.x
+Keras 2.x
+OpenCV
+Python3.x
+Numpy
+Beautiful Soup 4.x
+
 Code Organization:
-==================
+=================
