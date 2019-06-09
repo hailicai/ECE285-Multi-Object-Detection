@@ -6,12 +6,12 @@ Main SSD codes are from https://github.com/pierluigiferrari/ssd_keras. Different
 
 Required Packets
 ===============
-Tensorflow or Tensorflow-gpu 1.x
-Keras 2.x
-OpenCV
-Python3.x
-Numpy
-Beautiful Soup 4.x
+* Tensorflow or Tensorflow-gpu 1.x
+* Keras 2.x
+* OpenCV
+* Python3.x
+* Numpy
+* Beautiful Soup 4.x
 
 Code Organization:
 =================
