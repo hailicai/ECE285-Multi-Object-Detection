@@ -23,4 +23,4 @@ Code Organization:
 
 Results From Demo:
 =================
-![Demo_images](cat2.jpg)
+![](demo_images/cat1.jpg)
