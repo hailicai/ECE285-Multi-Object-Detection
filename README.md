@@ -23,7 +23,7 @@ Code Organization:
 
 Results From Demo:
 =================
-* In bird class, fine-tuned with birds data yields better result. However, for other classes, the result may vary. See the report session 4.1 for detail comparison. Please click on the image for better resolution
+* For bird class, fine-tuned with birds data yields better result. However, for other classes, the result may vary. See the report session 4.1 for detail comparison. Please click on the image for better resolution
 ![](demo_images/bird_demo1.png)
 ![](demo_images/bird_demo2.png)
 ![](demo_images/sofa_demo.png)
