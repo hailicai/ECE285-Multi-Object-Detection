@@ -17,3 +17,9 @@ All can be installed using Anaconda
 
 Code Organization:
 =================
+1.Run Demo.ipynb for fast visualizing the prediction difference when fine-tunning with more birds data.
+2.Run different modification of interest following the descriptions in the report.
+
+
+Results From Demo:
+=================
