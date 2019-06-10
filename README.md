@@ -19,6 +19,9 @@ Code Organization:
 =================
 1. Run Project_Demo.ipynb for fast visualizing the prediction difference when fine-tunning with more birds data.
 2. Run different modifications of interest following the descriptions in the report.
+3. All the folders except the modification folders contain items that were needed to run and train the models
+4. The Modification csv files store the results of our modifications
+5. The Modification ipynb files store how we generated the modifications.
 
 
 Results From Demo:
